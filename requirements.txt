@@ -1,4 +1,9 @@
 streamlit
 streamlit-option-menu
+Pillow
+numpy
 pandas
 scikit-learn
+joblib
+torch
+transformers
